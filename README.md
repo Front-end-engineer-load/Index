@@ -1,8 +1,8 @@
 ##  欢迎来到我的Github blog  这里将记录我的前端学习规划和经验
 * 编码
- 1.js
- 2.html
- 3.css
+1.js
+2.html
+3.css
 * 工具
 * 设计
 
