@@ -83,6 +83,7 @@
 图片上还要有超链接
 
 [![baidu]](http://baidu.com)
+
 [baidu]:http://www.baidu.com/img/bdlogo.gif "baidu"
 
 样式也必须一样 中间需要换行
