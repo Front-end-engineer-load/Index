@@ -6,6 +6,7 @@
 	* node
 	* javascript
 		* javascript(原生)
+		* es6 语法学习
 		* jQuery
 		* Vue
 		* React
